@@ -105,13 +105,13 @@ print(pb)
 # score -------> str 'Completed'
 #       -------> int 100
 
-pb = 20
-score = 100
-score = 'Completed'
-print(type(score))
-print(type(pb))
-print(score)
-print(pb)
+# pb = 20
+# score = 100
+# score = 'Completed'
+# print(type(score))
+# print(type(pb))
+# print(score)
+# print(pb)
 
 #  ========
 
@@ -126,7 +126,7 @@ print(pb)
 
 
 
-''
+
 
 
 
